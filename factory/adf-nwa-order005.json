@@ -1,0 +1,9 @@
+{
+	"name": "adf-nwa-order005",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63c23d59-6174-4ab2-bbb5-f1a70de71b44",
+		"tenantId": "ee4c8bdc-f5e5-40be-a08f-88dc21dbac88"
+	}
+}
